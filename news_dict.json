@@ -1,0 +1,92 @@
+{
+    "528370": {
+        "article_date_timestamp": 1641717848.0,
+        "article_title": "FIN7 отправляла компаниям в США посылки с вредоносными USB-устройствами",
+        "article_url": "https://www.securitylab.ru/news/528370.php",
+        "article_desc": "Когда получатель подключал USB-накопитель к своему компьютеру, хакеры получали административный доступ к системе."
+    },
+    "528369": {
+        "article_date_timestamp": 1641708147.0,
+        "article_title": "Итальянского мафиози нашли спустя 20 лет благодаря фото на Google Maps",
+        "article_url": "https://www.securitylab.ru/news/528369.php",
+        "article_desc": "В декабре в Испании арестовали босса итальянской мафии, который 20 лет находился в бегах. Вычислить преступника помог сервис Google Street View."
+    },
+    "528368": {
+        "article_date_timestamp": 1641706483.0,
+        "article_title": "Читеры заплатят 10 миллионов долларов создателям PUBG Mobile",
+        "article_url": "https://www.securitylab.ru/news/528368.php",
+        "article_desc": "Компании Tencent и KRAFTON, занимающиеся разработкой и дистрибуцией PUBG Mobile, выиграли в суде у хакеров, распространявших читы для игры."
+    },
+    "528364": {
+        "article_date_timestamp": 1641635593.0,
+        "article_title": "Французский регулятор оштрафовал Google и Meta на €210 млн",
+        "article_url": "https://www.securitylab.ru/news/528364.php",
+        "article_desc": "Представители регулятора отметили, что сайты google.fr, facebook.com и youtube.com не позволяют отказаться от cookie так же легко, как и согласиться на их использование."
+    },
+    "528363": {
+        "article_date_timestamp": 1641631103.0,
+        "article_title": "Власти США установят аварийные выключатели в новых автомобилях",
+        "article_url": "https://www.securitylab.ru/news/528363.php",
+        "article_desc": "Система безопасности будет содержать бэкдор, предоставляя постоянный доступ властям и правоохранителям."
+    },
+    "528362": {
+        "article_date_timestamp": 1641620158.0,
+        "article_title": "Эксперт опроверг миф о неуязвимости Mac для хакеров",
+        "article_url": "https://www.securitylab.ru/news/528362.php",
+        "article_desc": "В прошлом году появилось сразу несколько образцов вредоносных программ для macOS."
+    },
+    "528346": {
+        "article_date_timestamp": 1641531395.0,
+        "article_title": "Швейцарская армия запретила военным использовать иностранные мессенджеры",
+        "article_url": "https://www.securitylab.ru/news/528346.php",
+        "article_desc": "Вооруженные силы Швейцарии запретили военнослужащим пользоваться мессенджерами Telegram, WhatsApp и Signal из соображений обеспечения информационной безопасности."
+    },
+    "528345": {
+        "article_date_timestamp": 1641530073.0,
+        "article_title": "В 2021 году криптомошенники похитили рекордные 14 миллиардов долларов",
+        "article_url": "https://www.securitylab.ru/news/528345.php",
+        "article_desc": "С 2020 года убытки от преступлений, связанных с цифровыми валютами, выросли на 79%"
+    },
+    "528344": {
+        "article_date_timestamp": 1641528990.0,
+        "article_title": "Хакеры используют для взлома Windows уязвимость девятилетней давности",
+        "article_url": "https://www.securitylab.ru/news/528344.php",
+        "article_desc": "Участились случаи взлома Windows с помощью бреши в системе, которая была устранена девять лет назад."
+    },
+    "528331": {
+        "article_date_timestamp": 1641476344.0,
+        "article_title": "Новый метод позволяет имитировать выключение iPhone и шпионить через камеру",
+        "article_url": "https://www.securitylab.ru/news/528331.php",
+        "article_desc": "NoReboot позволяет перехватить процесс перезагрузки и выключения и сделать так, чтобы они никогда не происходили."
+    },
+    "528330": {
+        "article_date_timestamp": 1641476098.0,
+        "article_title": "Антивирус Norton 360 тайно майнит криптовалюту",
+        "article_url": "https://www.securitylab.ru/news/528330.php",
+        "article_desc": "Пользователи антивируса Norton 360 обвинили разработчиков в несанкционированном майнинге криптовалют на их устройствах"
+    },
+    "528303": {
+        "article_date_timestamp": 1641443266.0,
+        "article_title": "Palo Alto Networks предупреждает о массовых атаках с использованием веб-скиммеров",
+        "article_url": "https://www.securitylab.ru/news/528303.php",
+        "article_desc": "Злоумышленники устраивают кибератаки на цепочку поставок программного обеспечения для взлома сайтов с высокой посещаемостью."
+    },
+    "528293": {
+        "article_date_timestamp": 1641388174.0,
+        "article_title": "Elephant Beetle похищает миллионы долларов у организаций по всему миру",
+        "article_url": "https://www.securitylab.ru/news/528293.php",
+        "article_desc": "Хакеры внедряют в сеть мошеннические транзакции и похищают небольшие суммы в течение продолжительного периода времени."
+    },
+    "528283": {
+        "article_date_timestamp": 1641386524.0,
+        "article_title": "NetBlocks:В Казахстане полностью отключили интернет",
+        "article_url": "https://www.securitylab.ru/news/528283.php",
+        "article_desc": "По всему Казахстану отключили интернет, следует из данных организации NetBlocks, отслеживающей работу Сети."
+    },
+    "528264": {
+        "article_date_timestamp": 1641370421.0,
+        "article_title": "Китайские власти проверят мобильные приложения на безопасность и «социалистические ценности»",
+        "article_url": "https://www.securitylab.ru/news/528264.php",
+        "article_desc": "Администрация по кибербезопасности Китая опубликовала проект правил для регулирования мобильных приложений."
+    }
+}
